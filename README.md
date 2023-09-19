@@ -1,4 +1,4 @@
-**BMI Calculator**
+# BMI Calculator
 
 Body Mass Index(BMI) is a measurement of body size based on our height and weight.
 

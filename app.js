@@ -24,7 +24,7 @@ document.getElementById('calculateBmi').addEventListener('click',()=>{
         category = 'Underweight';
     }else if(bmi<25){
         category = 'Normal Weight';
-    }else if(bmi<29.5){
+    }else if(bmi<30){
         category = 'Overweight';
     }else{
         category = 'Obese';
